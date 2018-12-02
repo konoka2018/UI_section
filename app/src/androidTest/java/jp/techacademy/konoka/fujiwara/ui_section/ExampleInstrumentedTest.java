@@ -24,3 +24,5 @@ public class ExampleInstrumentedTest {
         assertEquals("jp.techacademy.konoka.fujiwara.ui_section", appContext.getPackageName());
     }
 }
+
+
